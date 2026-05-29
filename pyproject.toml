@@ -1,0 +1,18 @@
+[project]
+name = "computer-vision-self-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "huggingface-hub>=1.17.0",
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.9",
+    "opencv-contrib-python>=4.13.0.92",
+    "opencv-python>=4.13.0.92",
+    "selectivesearch>=0.4",
+    "torch>=2.12.0",
+    "torch-snippets>=0.560",
+    "torchvision>=0.27.0",
+    "wrapt>=2.2.1",
+]
